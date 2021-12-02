@@ -15,7 +15,6 @@ function loadExchange(){
             updateData(d);
             getUserInputs();
         });
-    
 }
 
 function updateData(d){
@@ -60,4 +59,3 @@ function renderExch(arr){
 //! start
 setLoaders();
 loadExchange();
-
